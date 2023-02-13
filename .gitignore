@@ -1,0 +1,7 @@
+.DS_STORE
+out/*
+dist/*
+node_modules/*
+*.lock
+*-lock.json
+idea.txt
