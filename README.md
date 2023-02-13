@@ -7,5 +7,5 @@ https://user-images.githubusercontent.com/76186054/218589431-0d6b6557-4411-470c-
 ```bash
 git clone https://github.com/fakerybakery/TypOH.git
 cd TypOH
-electron
+electron .
 ```
